@@ -10,7 +10,7 @@ Start with any triangle in a plane (any closed, bounded region in the plane will
 Suggested steps to completing this assignment:
 ----------------------------------------------
 1. Fork and clone down this repository
-2. Write the sierpinski function:
+2. Write the `sierpinski` function:
 
     * If `len` is greater than 20 (or some variable) recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
         * Again, call the `sierpinksi` function a second time to draw another triangle a distance of `len/2` to the right of the first triangle.
