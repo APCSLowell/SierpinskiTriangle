@@ -12,7 +12,8 @@ Suggested steps to completing this assignment:
 1. Fork and clone down this repository (Optional: Create your own repository from scratch. Look at the bottom of this page for instructions)
 2. Write the `sierpinski` function:
 
-    * If `len` is greater than 20 (or some variable) recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
+    * If `len` is greater than 20 (or some variable) 
+        * recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
         * Again, call the `sierpinksi` function a second time to draw another triangle a distance of `len/2` to the right of the first triangle.
         * Now, call the `sierpinksi` function a third time to draw a triangle a distance of `len/4` to the right and `len/2` up from the first triangle. This triangle should "sit on top" of the first two.
     * else
