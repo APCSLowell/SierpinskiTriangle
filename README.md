@@ -9,7 +9,7 @@ Start with any triangle in a plane (any closed, bounded region in the plane will
 
 Suggested steps to completing this assignment:
 ----------------------------------------------
-1. Fork and clone down this repository
+1. Fork and clone down this repository (Optional: Create your own repository from scratch. Look at the bottom of this page for instructions)
 2. Write the `sierpinski` function:
 
     * If `len` is greater than 20 (or some variable) recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
@@ -20,4 +20,16 @@ Suggested steps to completing this assignment:
 3. Once you have the `sierpinksi` function completed, call it once in `draw()` to start the process. You can change the number and size of the triangles by changing the limit in the `if` from 20 to some variable and adjusting the value of the variable. One way to make the program interactive is to use `mouseDragged` to change the limit.
 4. Feel free to create your own inidividual variation of the Sierpinski triangle. [Your recursive triangle doesn't have to look like any other](http://www.google.com/search?q=variations+on+a+theme+of+sierpinski&safe=active&es_sm=122&source=lnms&tbm=isch&sa=X&ei=Ku-uVP7vEJecoQSvwoCADg&ved=0CAoQ_AUoAw&biw=1280&bih=856&surl=1#safe=active&tbm=isch&q=variations+on+sierpinski+triangle&imgdii=_). 
 5. You could also create a [Sierpinski carpet](http://en.wikipedia.org/wiki/Sierpinski_carpet) as an alternative to the Sierpinski Triangle.
+
+Optional: Create your own repository from scratch
+-------------------------------------------------
+It's not hard to create your own repostiory.
+1. Create a folder called SierpinskiTriangle in your apjava folder.
+2. Download [processing.js](http://processingjs.org/download/) and move it to the SierpinskiTriangle folder (You will want to download the development version)
+2. Use Sublime to create the following 3 files, all of which are stored in the SierpinskiTriangle folder. Choose New File and then Save As and give the file the correct name
+    * `SierpinskiTriagle.pde`
+    * `index.html` (can be copied from a previous assignment, you will just need to change two things in the body to match the name `SierpinskiTriangle`
+    * `styles.css` (can be copied from a previous assignment)
+4. Now, go to GitHub and create a new empty SierpinskiTriangle repository. GitHub will provide the commands that you use to link your local SierpinskiTriangle folder to the GitHub repository
+5. To display your program on the web, you will want to create a new `gh-pages` branch. Then, go to the GitHub settings and make `gh-pages` the default branch
 
