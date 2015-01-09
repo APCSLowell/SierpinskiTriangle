@@ -26,7 +26,7 @@ Optional: Create your own repository from scratch
 -------------------------------------------------
 It's not hard to create your own repostiory.    
 1. Create a folder called SierpinskiTriangle in your apjava folder.    
-2. Download [processing.js](http://processingjs.org/download/) and move it to the SierpinskiTriangle folder (You will want to download the development version)    
+2. Copy `processing.js` from a previous assignment and move it to the SierpinskiTriangle folder (Or, better practice, [download](http://processingjs.org/download/) the latest development version)    
 3. Use Sublime to create the following 3 files, all of which are stored in the SierpinskiTriangle folder. Choose New File and then Save As and give the file the correct name    
     * `SierpinskiTriangle.pde`    
     * `index.html` (can be copied from a previous assignment, you will just need to change the canvas id tag in the body to match the name `SierpinskiTriangle`    
