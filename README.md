@@ -34,3 +34,7 @@ It's not hard to create your own repostiory.
 4. Now, go to GitHub and create a new empty SierpinskiTriangle repository. GitHub will provide the commands that you use to link your local SierpinskiTriangle folder to the GitHub repository    
 5. To display your program on the web, you will want to create a new `gh-pages` branch. Then, go to the GitHub settings and make `gh-pages` the default branch    
 
+Samples of Student Work
+-----------------------
+[Dante](http://dantetam.github.io/SierpinskiTriangle/)   
+
