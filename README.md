@@ -39,7 +39,7 @@ Samples of Student Work
 [Dante](http://dantetam.github.io/SierpinskiTriangle/)   
 [Erika](http://bekutaa.github.io/SierpinskiTriangle/)  
 [Zachary](http://zachooz.github.io/SierpinskiTriangle/)  
-[Chris](http://chrisma1.github.io/SierpinskiTriangle/) 
+[Chris](http://chrisma1.github.io/SierpinskiTriangle/)   
 [Kenta](http://redtorch.github.io/SierpinskiTriangle/)   
 [Yufan](http://yuxu1.github.io/SierpinskiTriangle/)  
 
