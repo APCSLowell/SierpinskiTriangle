@@ -42,5 +42,7 @@ Samples of Student Work
 [Chris](http://chrisma1.github.io/SierpinskiTriangle/)   
 [Kenta](http://redtorch.github.io/SierpinskiTriangle/)   
 [Yufan](http://yuxu1.github.io/SierpinskiTriangle/)   
+[Philip](http://philiphuang2.github.io/SierpinskiTriangle/)  
+[Lee](http://shleewhite.github.io/SierpinskiTriangle/)   
 [Oliver](http://olivernoss.github.io/SierpinskiTriangle/)  
 
