@@ -36,7 +36,11 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work
 -----------------------
-[Dante](http://dantetam.github.io/SierpinskiTriangle/)   
+[Ethan](http://emdarcher.github.io/SierpinskiTriangle/)  
+[Celena](http://celenac.github.io/SierpinskiTriangle/)  
+[David](http://goliathuros.github.io/SierpinskiTriangle/)  
+[Antonio](http://adcarmona.github.io/SierpinskiTriangle/)  
+[Michel](http://lubaruja.github.io/SierpinskiTriangle/)   
 [Erika](http://bekutaa.github.io/SierpinskiTriangle/)  
 [Zachary](http://zachooz.github.io/SierpinskiTriangle/)  
 [Chris](http://chrisma1.github.io/SierpinskiTriangle/)   
