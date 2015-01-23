@@ -38,10 +38,13 @@ Samples of Student Work
 -----------------------
 [Ethan](http://emdarcher.github.io/SierpinskiTriangle/)  
 [Celena](http://celenac.github.io/SierpinskiTriangle/)  
+[Aaron](http://aaronchowapcs.github.io/SierpinskiTriangle/)  
+[Luis](http://lmaragon.github.io/SierpinskiTriangle/)  
 [David](http://goliathuros.github.io/SierpinskiTriangle/)  
 [Antonio](http://adcarmona.github.io/SierpinskiTriangle/)  
 [Michel](http://lubaruja.github.io/SierpinskiTriangle/)   
 [Erika](http://bekutaa.github.io/SierpinskiTriangle/)  
+[Annie](http://anxie.github.io/SierpinskiTriangle/)  
 [Zachary](http://zachooz.github.io/SierpinskiTriangle/)  
 [Chris](http://chrisma1.github.io/SierpinskiTriangle/)   
 [Kenta](http://redtorch.github.io/SierpinskiTriangle/)   
