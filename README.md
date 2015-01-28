@@ -40,6 +40,7 @@ Samples of Student Work
 [Sasha](http://sashagonzalez.github.io/SierpinskiTriangle/)  
 [Celena](http://celenac.github.io/SierpinskiTriangle/)  
 [Aaron](http://aaronchowapcs.github.io/SierpinskiTriangle/)  
+[Gideon](http://giteon.github.io/SierpinskiTriangle/)  
 [Luis](http://lmaragon.github.io/SierpinskiTriangle/)  
 [David](http://goliathuros.github.io/SierpinskiTriangle/)  
 [Antonio](http://adcarmona.github.io/SierpinskiTriangle/)  
