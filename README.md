@@ -9,7 +9,8 @@ Start with any triangle, though the usual Sierpinski triangle uses an equilatera
 
 Suggested steps to complete this assignment:
 ----------------------------------------------
-1. Fork and clone down this repository (Optional: Create your own repository from scratch. Look at the bottom of this page for instructions)
+1. You may find slides #1 - 39 of the [Recursion powerpoint](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdFNMNkthaG15X1k) helpful.
+2. Fork and clone down this repository (Optional: Create your own repository from scratch. Look at the bottom of this page for instructions)
 2. Write the `sierpinski` function:
 
     * If `len` is greater than 20 (or some variable) 
