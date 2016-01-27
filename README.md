@@ -39,6 +39,7 @@ Samples of Student Work
 -----------------------
 [Alexander](http://alzhu1.github.io/SierpinskiTriangle/)  
 [Elliott](http://elliottdebruin.github.io/SierpinskiTriangle/)  
+[Henry](http://usaruner.github.io/SierpinskiTriangle/)  
 [Rowan](http://rocassius.github.io/SierpinskiTriangle/)   
 [Ethan](http://emdarcher.github.io/SierpinskiTriangle/)  
 [Sasha](http://sashagonzalez.github.io/SierpinskiTriangle/)  
@@ -46,19 +47,5 @@ Samples of Student Work
 [Aaron](http://aaronchowapcs.github.io/SierpinskiTriangle/)  
 [Gideon](http://giteon.github.io/SierpinskiTriangle/)  
 [Luis](http://lmaragon.github.io/SierpinskiTriangle/)  
-[David](http://goliathuros.github.io/SierpinskiTriangle/)  
-[Antonio](http://adcarmona.github.io/SierpinskiTriangle/)  
-[Michel](http://lubaruja.github.io/SierpinskiTriangle/)   
-[Kristen](http://kris-10.github.io/SierpinskiTriangle/)   
-[Neil](http://neilwong.github.io/SierpinskiTriangle/)   
-[Erika](http://bekutaa.github.io/SierpinskiTriangle/)  
-[Annie](http://anxie.github.io/SierpinskiTriangle/)  
-[Zachary](http://zachooz.github.io/SierpinskiTriangle/)  
-[Chris](http://chrisma1.github.io/SierpinskiTriangle/)   
-[Kenta](http://redtorch.github.io/SierpinskiTriangle/)   
-[Yufan](http://yuxu1.github.io/SierpinskiTriangle/)   
-[Philip](http://philiphuang2.github.io/SierpinskiTriangle/)  
-[Lee](http://shleewhite.github.io/SierpinskiTriangle/)   
-[Oliver](http://olivernoss.github.io/SierpinskiTriangle/)  
-[Alex](http://alexsffeng.github.io/SierpinskiTriangle/)  
+
 
