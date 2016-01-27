@@ -13,7 +13,7 @@ Suggested steps to complete this assignment:
 2. Fork and clone down this repository (Optional: Create your own repository from scratch. Look at the bottom of this page for instructions)
 2. Write the `sierpinski` function:
 
-    * If `len` is greater less than of equal to 20 (or some variable) 
+    * If `len` is less than or equal to 20 (or some variable) 
         * Draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len`.
     * else
         * recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
