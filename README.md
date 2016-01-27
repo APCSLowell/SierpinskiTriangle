@@ -43,7 +43,7 @@ Samples of Student Work
 [Rowan](http://rocassius.github.io/SierpinskiTriangle/)   
 [Ethan](http://emdarcher.github.io/SierpinskiTriangle/)  
 [Sasha](http://sashagonzalez.github.io/SierpinskiTriangle/)  
-[Celena](http://celenac.github.io/SierpinskiTriangle/)  
+[Oliver](http://olivernoss.github.io/SierpinskiTriangle/)  
 [Aaron](http://aaronchowapcs.github.io/SierpinskiTriangle/)  
 [Gideon](http://giteon.github.io/SierpinskiTriangle/)  
 [Luis](http://lmaragon.github.io/SierpinskiTriangle/)  
