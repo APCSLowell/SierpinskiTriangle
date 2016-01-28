@@ -37,6 +37,9 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work
 -----------------------
+[Esther](http://elam2016.github.io/SierpinskiCarpet/)  
+[Steven](http://crzysteven.github.io/SierpinskiTriangle/)  
+[Brian](http://brianlam37.github.io/SierpinskiTriangle/)  
 [Aliya](http://aliyachambless.github.io/SierpinskiTriangle/)  
 [Elston](http://458elma.github.io/SierpinskiTriangle/)  
 [Aidan](https://hakyojin.github.io/SierpinskiTriangle/)  
