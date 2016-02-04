@@ -46,6 +46,7 @@ Samples of Student Work
 [Francisco](http://frbui.github.io/SierpinskiTriangle/)  
 [Brandi](http://brw1221.github.io/SierpinskiTriangle/)  
 [Andy](http://huangandy54.github.io/SierpinskiTriangle/)  
+[Martin](http://marrtinj.github.io/SierpinskiTriangle/)  
 [Stanley](http://kotorisan.github.io/SierpinskiTriangle/)  
 [Justin](http://justinleong360.github.io/SierpinskiTriangle/)  
 [Alex](http://alexlo1.github.io/SierpinskiTriangle/)  
