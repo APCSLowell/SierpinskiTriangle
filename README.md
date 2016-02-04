@@ -59,10 +59,9 @@ Samples of Student Work
 [Alexander](http://alzhu1.github.io/SierpinskiTriangle/)  
 [Elliott](http://elliottdebruin.github.io/SierpinskiTriangle/)  
 [Henry](http://usaruner.github.io/SierpinskiTriangle/)  
+[Matthew](http://yeahmatts.github.io/SierpinskiTriangle/)  
 [Sasha](http://sashagonzalez.github.io/SierpinskiTriangle/)  
 [Oliver](http://olivernoss.github.io/SierpinskiTriangle/)  
-[Aaron](http://aaronchowapcs.github.io/SierpinskiTriangle/)  
-[Gideon](http://giteon.github.io/SierpinskiTriangle/)  
-[Luis](http://lmaragon.github.io/SierpinskiTriangle/)  
+
 
 
