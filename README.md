@@ -37,6 +37,9 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work
 -----------------------
+[Melody](http://itsmelodious.github.io/SierpinskiTriangle/)  
+[Carl](http://cahouweling.github.io/SierpinskiTriangle/)  
+[Brian](http://articlegend.github.io/SierpinskiTriangle/)  
 [Raymond](http://raymondshew.github.io/SierpinskiTriangle/)  
 [Rebecca](http://rebeckur.github.io/SierpinskiCarpet/)  
 [Thomas](http://whatarethose.github.io/SierpinskiTriangle/)  
@@ -44,6 +47,7 @@ Samples of Student Work
 [Hannah](http://kaliburr.github.io/SierpinskiTriangle/)  
 [Jeanette](http://roquefortt.github.io/SierpinskiTriangle/)  
 [Noah](http://noahzpepper.github.io/SierpinskiTriangle/)  
+[John](http://jcdente.github.io/SierpinskiTriangle/)  
 [Jeremy](http://gitrektapcs.github.io/SierpinskiTriangle/)  
 [Emily](http://emyee19.github.io/SierpinskiTriangle/)  
 [Francisco](http://frbui.github.io/SierpinskiTriangle/)  
