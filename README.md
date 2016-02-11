@@ -48,6 +48,8 @@ Samples of Student Work
 [Ivan](http://greypoupon.github.io/SierpinskiTriangle/)  
 [Megan](http://meegee98.github.io/SierpinskiTriangle/)  
 [Brian](http://articlegend.github.io/SierpinskiTriangle/)  
+[Thomas](http://leechak.github.io/SierpinskiTriangle/)  
+[Herman](http://hezeng1.github.io/SierpinskiTriangle/)  
 [Raymond](http://raymondshew.github.io/SierpinskiTriangle/)  
 [Rebecca](http://rebeckur.github.io/SierpinskiCarpet/)  
 [Brian](http://btx123.github.io/SierpinskiTriangle/)  
