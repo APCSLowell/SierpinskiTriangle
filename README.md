@@ -45,6 +45,7 @@ Samples of Student Work
 [Michelle](http://xmichellex.github.io/SierpinskiTriangle/)  
 [Melody](http://itsmelodious.github.io/SierpinskiTriangle/)  
 [Carl](http://cahouweling.github.io/SierpinskiTriangle/)  
+[Ivan](http://greypoupon.github.io/SierpinskiTriangle/)  
 [Megan](http://meegee98.github.io/SierpinskiTriangle/)  
 [Brian](http://articlegend.github.io/SierpinskiTriangle/)  
 [Raymond](http://raymondshew.github.io/SierpinskiTriangle/)  
