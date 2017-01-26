@@ -19,8 +19,8 @@ Suggested steps to complete this assignment:
         * recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
         * Again, call the `sierpinksi` function a second time to draw another triangle a distance of `len/2` to the right of the first triangle.
         * Now, call the `sierpinksi` function a third time to draw a triangle a distance of `len/4` to the right and `len/2` up from the first triangle. This triangle should "sit on top" of the first two.
-3. Once you have the `sierpinksi` function completed, call it once in `draw()` to start the process. You can change the number and size of the triangles by changing the limit in the `if` from 20 to some variable and adjusting the value of the variable. One way to make the program interactive is to use `mouseDragged` to change the limit.
-4. Feel free to create your own individual variation of the Sierpinski triangle. [Your recursive triangle doesn't have to look like any other](http://www.google.com/search?q=variations+on+a+theme+of+sierpinski&safe=active&es_sm=122&source=lnms&tbm=isch&sa=X&ei=Ku-uVP7vEJecoQSvwoCADg&ved=0CAoQ_AUoAw&biw=1280&bih=856&surl=1#safe=active&tbm=isch&q=variations+on+sierpinski+triangle&imgdii=_). The mathematically adventurous might want to check out [the sierpinski triangle page to end most sierpinski triangle pages ™](http://www.oftenpaper.net/sierpinski.htm).
+3. Once you have the `sierpinksi` function completed, call it once in `draw()` to start the process. You can change the number and size of the triangles by changing the limit in the `if` from 20 to some variable and adjusting the value of the variable. Some ways to make the program interactive include using `mousePressed()`, `keyPressed()`, `mouseDragged()` or `mouseMoved()` to change the limit.
+4. Feel free to create your own individual variation of the Sierpinski triangle. [Your recursive triangle doesn't have to look like any other, it doesn't even need to use triangles.](http://www.google.com/search?q=variations+on+a+theme+of+sierpinski&safe=active&es_sm=122&source=lnms&tbm=isch&sa=X&ei=Ku-uVP7vEJecoQSvwoCADg&ved=0CAoQ_AUoAw&biw=1280&bih=856&surl=1#safe=active&tbm=isch&q=variations+on+sierpinski+triangle&imgdii=_). The mathematically adventurous might want to check out [the sierpinski triangle page to end most sierpinski triangle pages ™](http://www.oftenpaper.net/sierpinski.htm).
 5. You could also create a [Sierpinski carpet](http://en.wikipedia.org/wiki/Sierpinski_carpet), Wallis sieve, [Hawaiian earring](https://en.wikipedia.org/wiki/Hawaiian_earring), Menger sponge or similiar as an alternative to the Sierpinski Triangle.
 
 Optional: Create your own repository from scratch
@@ -37,6 +37,12 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work
 -----------------------
+[Eric](https://jellybeanmill.github.io/SierpinskiTriangle/)   
+[Hannah](https://hadecastro.github.io/SierpinskiTriangle/)   
+[Erica](https://ekwkk.github.io/SierpinskiTriangle/)   
+[Janet](https://birded.github.io/SierpinskiTriangle/)   
+[Nathan](https://nathansng.github.io/SierpinskiTriangle/)   
+[Mi-Kaela](https://mikamarciales.github.io/SierpinskiTriangle/)   
 [Emma](https://emmackenzie.github.io/SierpinskiTriangle/)   
 [Andrew](https://andrewmai123.github.io/SierpinskiTriangle/)   
 [Schuyler](https://skschur1.github.io/SierpinskiTriangle/)   
