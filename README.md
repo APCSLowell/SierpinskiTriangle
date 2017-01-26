@@ -43,6 +43,7 @@ Samples of Student Work
 [Erica](https://ekwkk.github.io/SierpinskiTriangle/)   
 [Janet](https://birded.github.io/SierpinskiTriangle/)   
 [Nathan](https://nathansng.github.io/SierpinskiTriangle/)   
+[Felix](https://felixzhuk.github.io/SierpinskiTriangle/)   
 [Mi-Kaela](https://mikamarciales.github.io/SierpinskiTriangle/)
 [Joanna](https://j0annalu.github.io/SierpinskiTriangle/)   
 [Emma](https://emmackenzie.github.io/SierpinskiTriangle/)   
