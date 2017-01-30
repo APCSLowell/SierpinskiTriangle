@@ -37,8 +37,15 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work
 -----------------------
+[Andrea](https://chenandrea29.github.io/SierpinskiTriangle/)   
+[Aaron](https://aahuangithub.github.io/SierpinskiTriangle/)   
+[Erica](https://ericamalia.github.io/SierpinskiTriangle/)   
+[Sophie](https://sohuang.github.io/SierpinskiTriangle/)   
+[Otto](https://otschmidt.github.io/SierpinskiTriangle/)   
+[Joshua](https://joshualchan.github.io/SierpinskiTriangle/)   
 [Michael](https://mipsim.github.io/SierpinskiTriangle/)   
 [Eric](https://jellybeanmill.github.io/SierpinskiTriangle/)   
+[Karen](https://sonokjw.github.io/SierpinskiTriangle/)   
 [Hannah](https://hadecastro.github.io/SierpinskiTriangle/)   
 [Erica](https://ekwkk.github.io/SierpinskiTriangle/)   
 [Janet](https://birded.github.io/SierpinskiTriangle/)   
