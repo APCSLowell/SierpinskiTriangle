@@ -40,6 +40,8 @@ Samples of Student Work
 [Kenny](https://kennyyu168.github.io/SierpinskiTriangle/)   
 [Victor](https://kingvictor.github.io/SierpinskiTriangle/)   
 [Desmond](https://djmond.github.io/SierpinskiTriangle/)   
+[Farya](https://darya-ver.github.io/SierpinskiTriangle/)   
+[Garvin](https://garvingit.github.io/SierpinskiTriangle/)   
 [Preston](https://prestonttt.github.io/SierpinskiTriangle/)   
 [Makoi](https://magacula1.github.io/SierpinskiTriangle/)   
 [Thanawat](https://thiskappaisgrey.github.io/SierpinskiTriangle/index.html)   
