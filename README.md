@@ -47,6 +47,7 @@ Samples of Student Work
 [Thanawat](https://thiskappaisgrey.github.io/SierpinskiTriangle/index.html)   
 [Lydia](https://aqua28.github.io/SierpinskiTriangle/)   
 [Heath](https://heathexer.github.io/SierpinskiTriangle/)   
+[Kennety](https://kenpaso.github.io/SierpinskiTriangle/)  
 [Kirby](https://krbyktl.github.io/SierpinskiTriangle/)   
 [Andrea](https://chenandrea29.github.io/SierpinskiTriangle/)   
 [Aaron](https://aahuangithub.github.io/SierpinskiTriangle/)   
