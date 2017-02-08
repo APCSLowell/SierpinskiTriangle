@@ -61,6 +61,7 @@ Samples of Student Work
 [Karen](https://sonokjw.github.io/SierpinskiTriangle/)   
 [Hannah](https://hadecastro.github.io/SierpinskiTriangle/)   
 [Erica](https://ekwkk.github.io/SierpinskiTriangle/)   
+[Yolanda](https://yofeng.github.io/SierpinskiTriangle/)   
 [Janet](https://birded.github.io/SierpinskiTriangle/)   
 [Nathan](https://nathansng.github.io/SierpinskiTriangle/)   
 [Felix](https://felixzhuk.github.io/SierpinskiTriangle/)   
