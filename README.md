@@ -37,6 +37,7 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work
 -----------------------
+[Mike](https://mimonokandilos.github.io/SierpinskiTriangle/)   
 [Kenny](https://kennyyu168.github.io/SierpinskiTriangle/)   
 [Victor](https://kingvictor.github.io/SierpinskiTriangle/)   
 [Desmond](https://djmond.github.io/SierpinskiTriangle/)   
