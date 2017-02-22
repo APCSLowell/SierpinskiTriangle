@@ -44,6 +44,7 @@ Samples of Student Work
 [Farya](https://darya-ver.github.io/SierpinskiTriangle/)   
 [Garvin](https://garvingit.github.io/SierpinskiTriangle/)   
 [Preston](https://prestonttt.github.io/SierpinskiTriangle/)   
+[Jayden](https://jaydenlee1229.github.io/SierpinskiTriangle/)   
 [Makoi](https://magacula1.github.io/SierpinskiTriangle/)   
 [Thanawat](https://thiskappaisgrey.github.io/SierpinskiTriangle/index.html)   
 [Lydia](https://aqua28.github.io/SierpinskiTriangle/)   
