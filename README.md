@@ -38,7 +38,8 @@ It's not hard to create your own repostiory.
 Samples of Student Work
 -----------------------
 [Joey](https://eggcarton.github.io/SierpinskiTriangle/)   
-[Alex](http://alexruiz.me/SierpinskiTriangle/)   
+[Jonathan](https://jonathan109.github.io/SierpinskiTriangle/)   
+[Alex](http://alexruiz.me/SierpinskiTriangle/)   
 [Ryan](https://rylee12.github.io/SierpinskiTriangle/)   
 [Emma](https://emblenkinsop.github.io/SierpinskiTriangle/)   
 [Albert](https://albertma222.github.io/SierpinskiTriangle/)   
