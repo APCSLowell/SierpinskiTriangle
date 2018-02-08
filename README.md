@@ -42,6 +42,7 @@ Samples of Student Work
 [Alex](http://alexruiz.me/SierpinskiTriangle/)   
 [Ryan](https://rylee12.github.io/SierpinskiTriangle/)   
 [Emma](https://emblenkinsop.github.io/SierpinskiTriangle/)   
+[Gordon](https://milkteadailo.github.io/SierpinskiTriangle/)   
 [Andrew](https://drewren25.github.io/SierpinskiTriangle/)   
 [Joa](https://joehuang1108.github.io/SierpinskiTriangle/)   
 [Albert](https://albertma222.github.io/SierpinskiTriangle/)   
