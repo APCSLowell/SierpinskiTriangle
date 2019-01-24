@@ -33,7 +33,7 @@ It's not hard to create your own repostiory.
     * `index.html` (can be copied from a previous assignment, you will just need to change the canvas id tag in the body to match the name `SierpinskiTriangle`)    
     * `styles.css` (can be copied from a previous assignment)    
 4. Now, go to GitHub and create a new empty SierpinskiTriangle repository. GitHub will provide the commands that you use to link your local SierpinskiTriangle folder to the GitHub repository    
-5. To display your program on the web, you will want to create a new `gh-pages` branch. Then, go to the GitHub settings and make `gh-pages` the default branch    
+5. To display your program on the web, you will want to enable GitHub pages. Go to the settings for your repository, scroll down to the GitHub pages section, choose `Master branch` and click *Save*.   
 
 Samples of Student Work
 -----------------------
