@@ -44,6 +44,7 @@ Samples of Student Work
 [Lawrence](https://lawrencelowell.github.io/SierpinskiTriangle/)   
 [Eric](https://3ricyu.github.io/SierpinskiTriangle/)   
 [Gee](https://trtran8.github.io/SierpinskiTriangle/)   
+[Timmy](https://tidang.github.io/SierpinskiTriangle/)   
 [Sean](https://seanzep.github.io/SierpinskiTriangle/)   
 [Richard](https://riprivalov.github.io/SierpinskiTriangle/)   
 [Joshua](https://jowong1.github.io/SierpinskiTriangle/)   
