@@ -43,6 +43,7 @@ Samples of Student Work
 [Nathan](https://natran951.github.io/SierpinskiTriangle/)   
 [Lawrence](https://lawrencelowell.github.io/SierpinskiTriangle/)   
 [Eric](https://3ricyu.github.io/SierpinskiTriangle/)   
+[Andy](https://anwu1.github.io/SierpinskiTriangle/)   
 [Gee](https://trtran8.github.io/SierpinskiTriangle/)   
 [Timmy](https://tidang.github.io/SierpinskiTriangle/)   
 [Sean](https://seanzep.github.io/SierpinskiTriangle/)   
