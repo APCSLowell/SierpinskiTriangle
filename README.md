@@ -37,7 +37,7 @@ It's not hard to create your own repostiory.
 
 Samples of Student Work
 -----------------------
-[Brandon](https://btlsandwich.github.io/SierpinskiTriangle/)   
+[David](https://dactualchung.github.io/SierpinskiTriangle/)  [Brandon](https://btlsandwich.github.io/SierpinskiTriangle/)   
 [David](https://dachen18.github.io/SierpinskiTriangle/)   
 [Henry](https://henryjack12.github.io/SierpinskiTriangle/)    
 [Nathan](https://natran951.github.io/SierpinskiTriangle/)   
