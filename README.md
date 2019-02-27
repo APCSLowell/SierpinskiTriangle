@@ -42,6 +42,7 @@ Samples of Student Work
 [Brandon](https://btlsandwich.github.io/SierpinskiTriangle/)   
 [David](https://dachen18.github.io/SierpinskiTriangle/)   
 [Henry](https://henryjack12.github.io/SierpinskiTriangle/)    
+[Chris](https://whizardxd.github.io/APCS/Processing/SierpinskiTriangle/SierpinskiTriangle.html)   
 [Nathan](https://natran951.github.io/SierpinskiTriangle/)   
 [Lawrence](https://lawrencelowell.github.io/SierpinskiTriangle/)   
 [Andy](https://anli28.github.io/SierpinskiTriangle/)   
