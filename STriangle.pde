@@ -129,8 +129,8 @@ class STriangle {
     }
   }
   public void seperate(){
-  my += Math.sqrt(trianglenumt) * (Math.random() * 3)*(10)/((dist(mx,(float)(my + leng * (Math.sqrt(3)/2)),mouseX,mouseY))/20) * (Math.abs(my - mouseY)/(my-mouseY));
-  mx += Math.sqrt(trianglenumt) * (Math.random() * 3)*(2)/((dist(mx,(float)(my + leng * (Math.sqrt(3)/2)),mouseX,mouseY))/20)* (Math.abs(mx - mouseX)/(my-mouseX));
+  my += Math.sqrt(trianglenumt) * (Math.random() * 3)*(10)/((dist(mx,(float)(my + leng * (Math.sqrt(3)/4)),mouseX,mouseY))/20) * (Math.abs(my - mouseY)/(my-mouseY));
+  mx += Math.sqrt(trianglenumt) * (Math.random() * 3)*(2)/((dist(mx,(float)(my + leng * (Math.sqrt(3)/4)),mouseX,mouseY))/20)* (Math.abs(mx - mouseX)/(my-mouseX));
       if(trianglenumt < maxtri){
     St1.seperate();
     St2.seperate();
