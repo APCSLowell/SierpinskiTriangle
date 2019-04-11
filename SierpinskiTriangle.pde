@@ -1,4 +1,5 @@
 int maxtri = 8;
+boolean changeColor = true;
 STriangle MasterTriangle;
 public void setup()
 {

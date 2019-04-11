@@ -61,7 +61,35 @@ class STriangle {
   public void moveBack(){
     my += (truey - my)/10;
     mx += (truex - mx)/10;
-      if (my < 900/4) {
+    if(!changeColor){
+      if (truey < 900/4) {
+      int temp = 900/4;
+      int tempb = (int)truey - 0;
+      stroke(255, (255 * tempb)/temp, 0);
+    } else if (truey < 900/2) {
+      int temp = 900/4;
+      if (temp == 0) {
+        temp = 1;
+      }
+      int tempb = (int)truey - 900/4;
+      stroke(127 - (127 * tempb)/temp, 255, (255 * tempb)/temp);
+    } else if (truey < 900*3/4) {
+      int temp = 900/4;
+      if (temp == 0) {
+        temp = 1;
+      }
+      int tempb = (int)truey - 900/2;
+      stroke(0, 255 - (255 * tempb)/temp, 255);
+    } else {
+      int temp = 900/4;
+      if (temp == 0) {
+        temp = 1;
+      }
+      int tempb = (int)truey - 900*3/4;
+      stroke(255-(127 * tempb)/temp, 0, 255);
+    }
+    }else{
+    if (my < 900/4) {
       int temp = 900/4;
       int tempb = (int)my - 0;
       stroke(255, (255 * tempb)/temp, 0);
@@ -87,6 +115,7 @@ class STriangle {
       int tempb = (int)my - 900*3/4;
       stroke(255-(127 * tempb)/temp, 0, 255);
     }
+    }
     beginShape();
     vertex(mx+leng/2, my);
     vertex(mx-leng/2, my);
@@ -100,8 +129,8 @@ class STriangle {
     }
   }
   public void seperate(){
-  my += trianglenumt * (Math.random() * 2)*(5)/((dist(mx,my,mouseX,mouseY))/20) * (Math.abs(my - mouseY)/(my-mouseY));
-  mx += trianglenumt * (Math.random() * 2)*(5)/((dist(mx,my,mouseX,mouseY))/20)* (Math.abs(mx - mouseX)/(my-mouseX));
+  my += Math.sqrt(trianglenumt) * (Math.random() * 3)*(10)/((dist(mx,(float)(my + leng * (Math.sqrt(3)/2)),mouseX,mouseY))/20) * (Math.abs(my - mouseY)/(my-mouseY));
+  mx += Math.sqrt(trianglenumt) * (Math.random() * 3)*(2)/((dist(mx,(float)(my + leng * (Math.sqrt(3)/2)),mouseX,mouseY))/20)* (Math.abs(mx - mouseX)/(my-mouseX));
       if(trianglenumt < maxtri){
     St1.seperate();
     St2.seperate();
