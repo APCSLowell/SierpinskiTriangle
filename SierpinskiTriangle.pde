@@ -1,7 +1,9 @@
 int maxtri = 9;
-boolean changeColor = true;
+boolean changeColor = false;
 STriangle MasterTriangle;
 boolean toggle = true;
+public boolean increase = false;
+float multiplier = 1;
 public void setup()
 {
   noFill();
@@ -13,11 +15,21 @@ public void setup()
 public void draw()
 {
   background(255);
-  MasterTriangle.moveBack();
+  MasterTriangle.move();
+  if (increase) {
+    MasterTriangle.seperate();
+    multiplier += .05;
+  } else {
+    multiplier = 1;
+    MasterTriangle.moveBack();
+  }
 }
-public void mouseDragged()//optional
+public void mousePressed()
 {
-  MasterTriangle.seperate();
+  increase = true;
+}
+public void mouseReleased() {
+  increase = false;
 }
 public void keyPressed() {
   if (key == 'w') {
@@ -30,15 +42,15 @@ public void keyPressed() {
       maxtri--;
     }
   }
-  if(key == 'e'){
-    if(toggle){
-  changeColor = !changeColor;
-  toggle = false;
+  if (key == 'e') {
+    if (toggle) {
+      changeColor = !changeColor;
+      toggle = false;
     }
   }
 }
-public void keyReleased(){
-if(key == 'e'){
-toggle = true;
-}
+public void keyReleased() {
+  if (key == 'e') {
+    toggle = true;
+  }
 }
