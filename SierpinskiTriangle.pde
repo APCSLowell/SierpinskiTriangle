@@ -1,3 +1,8 @@
+import processing.sound.*;
+Amplitude amp;
+AudioIn in;
+
+
 int maxtri = 9;
 boolean changeColor = false;
 STriangle MasterTriangle;
@@ -7,6 +12,10 @@ float multiplier = 1;
 public void setup()
 {
   noFill();
+  amp = new Amplitude(this);
+  in = new AudioIn(this,0);
+  in.start();
+  amp.input(in);
   background(255);
   size(1200, 1200);
   MasterTriangle = new STriangle(600, 150, 900, 0);
@@ -16,13 +25,11 @@ public void draw()
 {
   background(255);
   MasterTriangle.move();
-  if (increase) {
-    MasterTriangle.seperate();
+  //if (amp.analyze()>.01) {
+    MasterTriangle.seperate(amp.analyze());
     multiplier += .05;
-  } else {
-    multiplier = 1;
-    MasterTriangle.moveBack();
-  }
+  //}
+  MasterTriangle.moveBack();
 }
 public void mousePressed()
 {

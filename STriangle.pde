@@ -70,17 +70,17 @@ class STriangle {
       St3.moveBack();
     }
   }
-  public void seperate() {
-    float distance = (dist(mx, (float)(my + leng * (Math.sqrt(3)/4)), mouseX, mouseY));
+  public void seperate(float multi) {
+    float distance = (dist(mx, (float)(my + leng * (Math.sqrt(3)/4)), 600, 386));
     if (distance < 1) {
       distance = 1;
     }
-    my += multiplier*Math.sqrt(trianglenumt) * (Math.random() * 3)*(10)/((distance)/20)* (Math.abs(my - mouseY)/(my-mouseY));
-    mx += multiplier*Math.sqrt(trianglenumt) * (Math.random() * 3)*(10)/((distance)/20)* (Math.abs(mx - mouseX)/(mx-mouseX));
+    my += 5*multi*Math.sqrt(trianglenumt) * (Math.random() * 3)*(10)/((distance)/20)* (Math.abs(my - 386)/(my-386));
+    mx += 5*multi*Math.sqrt(trianglenumt) * (Math.random() * 3)*(10)/((distance)/20)* (Math.abs(mx - 600)/(mx-600));
     if (trianglenumt < maxtri) {
-      St1.seperate();
-      St2.seperate();
-      St3.seperate();
+      St1.seperate(multi);
+      St2.seperate(multi);
+      St3.seperate(multi);
     }
   }
   public void move() {
