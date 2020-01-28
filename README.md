@@ -14,7 +14,7 @@ Suggested steps to complete this assignment:
 2. Write the `sierpinski` function:
 
     * If `len` is less than or equal to 20 (or some variable) 
-        * Draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len`.
+        * Draw a [triangle](https://processing.org/reference/triangle_.html) with the left corner at (`x`,`y`) and a base and height equal to `len`.
     * else
         * recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
         * Again, call the `sierpinksi` function a second time to draw another triangle a distance of `len/2` to the right of the first triangle.
